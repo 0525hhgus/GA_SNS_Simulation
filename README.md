@@ -1,4 +1,4 @@
-# GA_SNS_Simulation (Generative Agent SNS Simulation)
+# Neologism Diffusion Mechanisms through Generative Agents (Generative Agent SNS Simulation)
 
 ## Overview
 SNS Simulation is a project that simulates social networking service activities. This includes various functionalities like user interactions, posts, and more.
